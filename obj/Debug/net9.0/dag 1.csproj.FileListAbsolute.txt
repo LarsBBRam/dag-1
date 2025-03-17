@@ -12,3 +12,4 @@ D:\Kodehode\koding\C#\Backendløp\dag 1\obj\Debug\net9.0\refint\dag 1.dll
 D:\Kodehode\koding\C#\Backendløp\dag 1\obj\Debug\net9.0\dag 1.pdb
 D:\Kodehode\koding\C#\Backendløp\dag 1\obj\Debug\net9.0\dag 1.genruntimeconfig.cache
 D:\Kodehode\koding\C#\Backendløp\dag 1\obj\Debug\net9.0\ref\dag 1.dll
+D:\Kodehode\koding\C#\Backendløp\dag 1\obj\Debug\net9.0\dag 1.sourcelink.json

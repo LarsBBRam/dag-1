@@ -52,5 +52,42 @@ class Program
         char addedChar = (char)(myChar + secondChar);
         Console.WriteLine(addedChar);
 
+        string numberAsText = "42";
+        bool numberFromText = int.TryParse(numberAsText, out int result);
+        Console.WriteLine(result);
+
+
+        int myAge = 31;
+
+        myAge += 10;
+        myAge -= 5;
+        myAge *= 10;
+        myAge /= 4;
+
+        myAge %= 2;
+
+        Console.WriteLine(myAge);
+
+        int num1 = 2;
+        int num2 = 4;
+
+        bool isEqual = num1 == num2;
+        Console.WriteLine(isEqual);
+
+        bool isNotEqual = num1 != num2;
+        Console.WriteLine(isNotEqual);
+
+        bool isLarger = num1 > num2;
+        Console.WriteLine(isLarger);
+
+        bool isSmaller = num1 < num2;
+        Console.WriteLine(isSmaller);
+
+        bool isNotEqualAndIsSmaller = isNotEqual && isSmaller;
+        Console.WriteLine(isNotEqualAndIsSmaller);
+
+
+
+
     }
 }
